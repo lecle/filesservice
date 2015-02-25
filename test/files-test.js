@@ -33,6 +33,9 @@ var dummyContainer = {
                 return {fail : function(){}};
             }
         };
+    },
+    getConfig : function() {
+        return '';
     }
 };
 
